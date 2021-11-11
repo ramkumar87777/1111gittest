@@ -5,6 +5,10 @@ private void empNmae() {
 	System.out.println("Mohan");
 
 }
+private void empadd() {
+	System.out.println("Chennai");
+
+}
 public static void main(String[] args) {
 	Test2 t=new Test2();
 	t.empNmae();
